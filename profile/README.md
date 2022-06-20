@@ -19,7 +19,7 @@
 
 ### What is CloudGoBrrr?
 
-It is a super simple and easy to use open source self-hosted cloud as an alternative to the big cloud providers. This way you manage your own data and no one else.
+It is a super simple and easy to use open source self-hosted cloud storage as an alternative to the big cloud providers. This way you manage your own data and no one else.
 
 ### How can I help?
 
